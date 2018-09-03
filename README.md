@@ -1,8 +1,6 @@
 # java-desktop-messanger
 
-This dummy application is used to understand the messaging. 
-This will give besic understanding how protocal is working background of message.
-It mainly cantained two class, one is client class and other is server class.
+This dummy application is used to understand the messaging. This will give besic understanding how protocal is working background of message. It mainly cantained two class, one is client class and other is server class.
 
 Working:
 1. First execute the sever class in command prompt and kept it's opened.
