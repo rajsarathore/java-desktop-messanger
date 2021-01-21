@@ -1,4 +1,5 @@
 # java-desktop-messanger
+Sorry, not followed the proper java project stucture.. Created simply using Notepad for learning. 
 
 This dummy application is used to understand the messaging. This will give besic understanding how protocal is working background of message. It mainly cantained two class, one is client class and other is server class.
 
